@@ -55,9 +55,9 @@ The layout of the sensors in the home is shown in the file milan.jpg.
            13   0.000000  0.000000  0.000000         2
            14   0.000000  0.000000  0.000000         4
 
-    micro avg   0.847682  0.847682  0.847682       453
-    macro avg   0.532397  0.558033  0.539878       453
- weighted avg   0.806688  0.847682  0.822448       453
+    micro avg      0.847682  0.847682  0.847682       453
+    macro avg      0.532397  0.558033  0.539878       453
+    weighted avg   0.806688  0.847682  0.822448       453
  
  ## SVM
  
@@ -79,9 +79,9 @@ The layout of the sensors in the home is shown in the file milan.jpg.
            13   1.000000  1.000000  1.000000         2
            14   0.500000  0.250000  0.333333         4
 
-    micro avg   0.852097  0.852097  0.852097       453
-    macro avg   0.635160  0.633811  0.625477       453
- weighted avg   0.819933  0.852097  0.830372       453
+    micro avg      0.852097  0.852097  0.852097       453
+    macro avg      0.635160  0.633811  0.625477       453
+    weighted avg   0.819933  0.852097  0.830372       453
 
 ## GRU
 
@@ -102,8 +102,8 @@ The layout of the sensors in the home is shown in the file milan.jpg.
         12.0   1.000000  0.250000  0.400000         4
         13.0   1.000000  0.500000  0.666667         2
         14.0   0.000000  0.000000  0.000000         4
-
-   micro avg   0.878587  0.878587  0.878587       453
-   macro avg   0.721802  0.656829  0.665552       453
-weighted avg   0.873248  0.878587  0.871555       453
+        
+    micro avg      0.878587  0.878587  0.878587       453
+    macro avg      0.721802  0.656829  0.665552       453
+    weighted avg   0.873248  0.878587  0.871555       453
 
